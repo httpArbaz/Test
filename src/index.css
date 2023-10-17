@@ -1,0 +1,23 @@
+@import url("https://sdks.shopifycdn.com/polaris/5.0.1/polaris.css");
+
+.form {
+  background-color: var(--p-color-background-secondary);
+  padding: 16px;
+}
+
+.form-field {
+  margin-bottom: 8px;
+}
+
+.form-field label {
+  font-weight: bold;
+}
+
+.form-field input {
+  width: 100%;
+}
+
+.form-button {
+  margin-top: 16px;
+  width: 100%;
+}
